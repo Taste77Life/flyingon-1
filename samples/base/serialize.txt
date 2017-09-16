@@ -1,0 +1,117 @@
+{
+    "Class": "Panel",
+    "width": 500,
+    "height": 400,
+    "border": 1,
+    "padding": 8,
+    "resizable": "all",
+    "style": "border: 1px solid",
+    "layout": {
+        "type": "table",
+        "data": "*[* * *] *[* *{*[* * *] *[* * *] *[* * *]} *] *[* * *]"
+    },
+    "children": [
+        {
+            "Class": "Label",
+            "border": 1,
+            "style": "border: 1px solid",
+            "style:background-color": "{{field1}}"
+        },
+        {
+            "Class": "Label",
+            "border": 1,
+            "style": "border: 1px solid",
+            "style:background-color": "{{field2}}"
+        },
+        { 
+            "Class": "Label",
+            "border": 1,
+            "style": "border: 1px solid",
+            "style:background-color": "{{field3}}"
+        },
+        { 
+            "Class": "Label",
+            "border": 1,
+            "style": "border: 1px solid",
+            "style:background-color": "{{field4}}"
+        },
+        { 
+            "Class": "Label",
+            "border": 1,
+            "style": "border: 1px solid",
+            "style:background-color": "{{field5}}"
+        },
+        { 
+            "Class": "Label",
+            "border": 1,
+            "style": "border: 1px solid",
+            "style:background-color": "{{field6}}"
+        },
+        { 
+            "Class": "Label",
+            "border": 1,
+            "style": "border: 1px solid",
+            "style:background-color": "{{field7}}"
+        },
+        { 
+            "Class": "Label",
+            "border": 1,
+            "style": "border: 1px solid",
+            "style:background-color": "{{field8}}"
+        },
+        { 
+            "Class": "Label",
+            "border": 1,
+            "style": "border: 1px solid",
+            "style:background-color": "{{field9}}"
+        },
+        { 
+            "Class": "Label",
+            "border": 1,
+            "style": "border: 1px solid",
+            "style:background-color": "{{field10}}"
+        },
+        { 
+            "Class": "Label",
+            "border": 1,
+            "style": "border: 1px solid",
+            "style:background-color": "{{field11}}"
+        },
+        { 
+            "Class": "Label",
+            "border": 1,
+            "style": "border: 1px solid",
+            "style:background-color": "{{field12}}"
+        },
+        { 
+            "Class": "Label",
+            "border": 1,
+            "style": "border: 1px solid",
+            "style:background-color": "{{field13}}"
+        },
+        { 
+            "Class": "Label",
+            "border": 1,
+            "style": "border: 1px solid",
+            "style:background-color": "{{field14}}"
+        },
+        { 
+            "Class": "Label",
+            "border": 1,
+            "style": "border: 1px solid",
+            "style:background-color": "{{field15}}"
+        },
+        { 
+            "Class": "Label",
+            "border": 1,
+            "style": "border: 1px solid",
+            "style:background-color": "{{field16}}"
+        },
+        {
+            "Class": "Label",
+            "border": 1,
+            "style": "border: 1px solid",
+            "style:background-color": "{{field17}}"
+        }
+    ]
+}
